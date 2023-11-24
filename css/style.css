@@ -1,0 +1,24 @@
+div.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div.wrapper .card{
+    display: flex;
+    color: black;
+    padding: 2rem 1rem;
+    margin-bottom: 1.5rem;
+    border: 2px solid  rgb(0, 0, 33);
+}
+
+div.wrapper .card h2 {
+    margin: auto;
+}
+
+
+
+.bg-gray{
+    background-color: aliceblue;
+}
